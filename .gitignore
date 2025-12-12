@@ -1,0 +1,3 @@
+git rm -r   
+git add .  
+git commit -m "Added gitignore and cleaned repo"
